@@ -1,0 +1,2 @@
+#!/bin/bash
+openssl rsa -outform der -in key.pem -out private.key
