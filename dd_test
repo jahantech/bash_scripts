@@ -1,0 +1,3 @@
+#!/bin/bash
+dd if=/dev/zero of=/mnt/speedtest bs=1G count=2
+#Above will write 2 x 1GB files to a mounted directory
